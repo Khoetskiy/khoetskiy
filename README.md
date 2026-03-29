@@ -82,7 +82,7 @@ Based in Spain. Interested in international and remote opportunities.
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Streak](./profile/streak.svg)
 
 ## 📫 Contact
 
