@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README stats
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -15,15 +16,24 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.khoetskiy }}&show_icons=true&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate top langs card
+
+      - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.khoetskiy }}&layout=compact&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&hide_border=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
@@ -31,5 +41,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README stats" || exit 0
           git push
