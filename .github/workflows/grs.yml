@@ -37,7 +37,7 @@ jobs:
           card: streak
           options: username=${{ github.repository_owner }}&hide_border=true
           path: profile/streak.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
