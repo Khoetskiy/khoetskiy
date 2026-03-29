@@ -78,7 +78,7 @@ Based in Spain. Interested in international and remote opportunities.
 
 ### GitHub Stats
 
-[![khoetskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoetskiy)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 ## 📫 Contact
 
