@@ -36,8 +36,8 @@ Based in Spain — open to remote opportunities across Europe.
 
 A web service for publishing and discovering recipes with shopping list generation.
 
-**Stack:** Django · DRF · PostgreSQL · Docker · Nginx · GitHub Actions
-**Features:** JWT auth · REST API · CI/CD pipeline · Swagger docs
+**Stack:** Django · DRF · PostgreSQL · Docker · Nginx · GitHub Actions  
+**Features:** JWT auth · REST API · CI/CD pipeline · Swagger docs  
 🔗 [Repo](https://github.com/Khoetskiy/foodgram)
 
 ## 📊 GitHub Stats
