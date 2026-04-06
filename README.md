@@ -45,13 +45,9 @@ Based in Spain. Interested in international and remote opportunities.
   - API
 - 👉 Demo / Repo
 
----
-
 ## 📫 Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoetskiy@email.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=fla-squaret&logo=telegram&logoColor=white)](https://t.me/khoetskiy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoetskiy)
-
----
 
 ## 📊 GitHub Stats
 
@@ -61,5 +57,3 @@ Based in Spain. Interested in international and remote opportunities.
 ## 📈 GitHub Activity Graph
 
 [![khoetskiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=github-compact&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![khoetskiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=react-dark&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
