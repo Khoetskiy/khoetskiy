@@ -1,16 +1,6 @@
-<!-- # 👋 Hi, I'm Sergey
-
-Python Backend Developer
-Building APIs with FastAPI & Django
-
-## 👨‍💻 About Me
-
-- 🧠 Backend developer focused on Python
-- 🚀 Building REST APIs and backend services
-- ⚙️ Working with FastAPI, Django, PostgreSQL
-- 🌍 Based in Spain -->
-
 # ![assets/header.png](assets/header.png)
+
+___
 
 ## 💫 About Me
 
@@ -57,7 +47,7 @@ Based in Spain. Interested in international and remote opportunities.
 
 ---
 
-### 📫 Connect with me
+#### 📫 Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoetskiy@email.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=fla-squaret&logo=telegram&logoColor=white)](https://t.me/khoetskiy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoetskiy)
 
@@ -69,5 +59,7 @@ Based in Spain. Interested in international and remote opportunities.
 ![Top Languages](./profile/top-langs.svg)
 
 #### 📈 GitHub Activity Graph
+
+[![khoetskiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=github-compact&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![khoetskiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=react-dark&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
