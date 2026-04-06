@@ -1,26 +1,12 @@
 ![assets/header.png](assets/header.png)
 
-<div align="center">
-
-![header](assets/header.png)
-
-</div>
-
-
-<img src="assets/header.png" alt="Sergey Khoetskiy — Python Backend Developer" width="100%">
-
 ___
 
 ## 💫 About Me
 
-Python Backend Developer
-Based in Spain. Interested in international and remote opportunities.
-
-## 💫 About Me
-
-Python Backend Developer with a focus on async APIs and scalable services.
-I enjoy working on projects where architecture matters — clean code, proper separation,
-and reliable background processing. Open to remote opportunities across Europe.
+Python Backend Developer building REST APIs and backend services with FastAPI and Django.
+Focused on clean architecture, proper code structure, and reliable deployment.
+Based in Spain — open to remote opportunities across Europe.
 
 ## 🧰 Tech Stack
 
@@ -40,29 +26,19 @@ and reliable background processing. Open to remote opportunities across Europe.
 
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-### 🧪 Testing & Quality
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?style=flat-square&logo=ruff&logoColor=white)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-
 ### 🛠 Tooling
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?style=flat-square&logo=ruff&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
 ## 🚀 Projects
 
-### 📌 Project Name
+### 🍽 Foodgram — Recipe Sharing Platform
 
-- Description (что делает)
-- Stack: FastAPI, PostgreSQL, Docker
-- Features:
-  - Auth
-  - Background tasks
-  - API
-- 👉 Demo / Repo
+A web service for publishing and discovering recipes with shopping list generation.
+
+**Stack:** Django · DRF · PostgreSQL · Docker · Nginx · GitHub Actions
+**Features:** JWT auth · REST API · CI/CD pipeline · Swagger docs
+🔗 [Repo](https://github.com/Khoetskiy/foodgram)
 
 ## 📊 GitHub Stats
 
