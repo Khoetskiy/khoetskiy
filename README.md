@@ -1,11 +1,26 @@
 ![assets/header.png](assets/header.png)
 
+<div align="center">
+
+![header](assets/header.png)
+
+</div>
+
+
+<img src="assets/header.png" alt="Sergey Khoetskiy — Python Backend Developer" width="100%">
+
 ___
 
 ## 💫 About Me
 
 Python Backend Developer
 Based in Spain. Interested in international and remote opportunities.
+
+## 💫 About Me
+
+Python Backend Developer with a focus on async APIs and scalable services.
+I enjoy working on projects where architecture matters — clean code, proper separation,
+and reliable background processing. Open to remote opportunities across Europe.
 
 ## 🧰 Tech Stack
 
@@ -33,6 +48,10 @@ Based in Spain. Interested in international and remote opportunities.
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
+### 🛠 Tooling
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?style=flat-square&logo=ruff&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
 ## 🚀 Projects
 
 ### 📌 Project Name
@@ -45,10 +64,6 @@ Based in Spain. Interested in international and remote opportunities.
   - API
 - 👉 Demo / Repo
 
-## 📫 Connect with me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoetskiy@email.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=fla-squaret&logo=telegram&logoColor=white)](https://t.me/khoetskiy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoetskiy)
-
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
@@ -56,4 +71,8 @@ Based in Spain. Interested in international and remote opportunities.
 
 ## 📈 GitHub Activity Graph
 
-[![khoetskiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=github-compact&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![khoetskiy's github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoetskiy&theme=github-compact&grid=false&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📫 Contact:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoetskiy@email.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/khoetskiy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoetskiy)
